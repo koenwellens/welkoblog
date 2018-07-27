@@ -1,4 +1,4 @@
-# Jekflix Template
+# The welko blog
 ![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
 
 See the [demo here](https://www.rossener.com/jekflix-template).
