@@ -5,8 +5,6 @@ description: 'Hi, I&#8217;m @wel_ko. In 2017, I read _How Google Works_. One of 
 permalink: /manual/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
-
 ## The @wel_ko Manual
 
 Hi, I&#8217;m @wel_ko. In 2017, I read _How Google Works_. One of the things I&#8217;ve learnt from the book is that someone created a manual for his colleagues on how to interact with him. This spiked the idea to create this page. Here&#8217;s a short manual on me.

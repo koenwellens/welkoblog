@@ -7,3 +7,4 @@ package-lock.json
 _site
 node_modules
 _drafts
+.publish
