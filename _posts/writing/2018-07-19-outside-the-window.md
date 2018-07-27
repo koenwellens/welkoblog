@@ -3,7 +3,7 @@ layout: post
 title: Outside the Window
 description: "Ah, the first of my creative writings. Number one on the list I follow is _Outside the Window_. I started with the following picture. Why? Because I googled for it on the 16th of July and it was picture 16 that I found. Nothing more to it. Anyway, here’s the story."
 introduction: "Ah, the first of my creative writings. Number one on the list I follow is _Outside the Window_. I started with the following picture. Why? Because I googled for it on the 16th of July and it was picture 16 that I found. Nothing more to it. Anyway, here’s the story."
-image: 'http://1.bp.blogspot.com/-L92GdfmoTig/Tah2vvesfdI/AAAAAAAAAB4/tAMnNW2pakY/s1600/Window.jpg'
+image: 'https://1.bp.blogspot.com/-L92GdfmoTig/Tah2vvesfdI/AAAAAAAAAB4/tAMnNW2pakY/s1600/Window.jpg'
 date: 2018-07-19 04:07:33
 tags:
     - Anxiety

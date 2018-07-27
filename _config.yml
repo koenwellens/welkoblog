@@ -2,14 +2,14 @@
 title: The wel_ko blog &nbsp;&nbsp;| &nbsp;&nbsp;A blog about reading, writing and the like.
 email: koen.wellens@hotmail.com
 description: A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.
-baseurl: "welkoblog"
-url: "https://koenwellens.github.io/"
-google_analytics: "UA-XXXXXXXX-X"
+baseurl: ""
+url: "http://thewelkoblog.xyz"
+google_analytics: "UA-122924885-1"
 
 # User Settings
 username: Koen Wellens
 user_description: The nerd with a mouth.
-disqus_username: disqus_T89yRUfhW2
+disqus_username: https-koenwellens-github-io-welkoblog
 
 # Social Media
 # Remove the item if you don't need it
@@ -24,7 +24,7 @@ highlighter: rouge
 permalink: /:title/
 
 # Plugins
-gems:
+plugins:
   - jemoji
 
 # Links to include in menu navigation
