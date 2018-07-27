@@ -1,6 +1,6 @@
 {
   "name": "welkoblog",
-  "version": "1.0.0-0",
+  "version": "1.0.1",
   "description": "The wel_ko blog",
   "main": "gulpfile.js",
   "scripts": {
