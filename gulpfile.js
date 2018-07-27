@@ -1,5 +1,6 @@
 var env       = require('minimist')(process.argv.slice(2)),
   gulp        = require('gulp'),
+  deploy     = require('gulp-gh-pages'),
   plumber     = require('gulp-plumber'),
   browserSync = require('browser-sync'),
   stylus      = require('gulp-stylus'),
@@ -87,6 +88,14 @@ gulp.task('watch', function () {
   gulp.watch('src/styl/**/*.styl', ['stylus']);
   gulp.watch('src/js/**/*.js', ['js']);
   gulp.watch(['**/*.html','index.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
+});
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+    return gulp.src("./_site/**/*")
+        .pipe(deploy())
 });
 
 /**
