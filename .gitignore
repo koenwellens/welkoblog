@@ -3,6 +3,7 @@
 .sass-cache
 Gemfile.lock
 package-json.lock
+package-lock.json
 _site
 node_modules
 _drafts
