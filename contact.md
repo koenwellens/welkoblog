@@ -14,7 +14,9 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Talk to me</h2>
+  <h2>Contact</h2>
+  
+  <p>Hey there! Want to leave a message? Fill in this basic contact form and I&#8217;ll get back to you as soon as possible!</p>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">

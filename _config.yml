@@ -1,24 +1,22 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: The wel_ko blog &nbsp;&nbsp;| &nbsp;&nbsp;A blog about reading, writing and the like.
+email: koen.wellens@hotmail.com
+description: A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.
+baseurl: ""
+url: ""
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Koen Wellens
+user_description: The nerd with a mouth.
+disqus_username: disqus_T89yRUfhW2
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: koenwellens
+twitter_username: wel_ko
+linkedin_username: wellenskoen
+goodreads_username: 29067301
 
 # Build settings
 markdown: kramdown
@@ -34,10 +32,20 @@ gems:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: Reading
+    url: /reading/
+  - title: Writing
+    url: /writing/
+  - title: My Rating Scale
+    url: /scale/
+  - title: The wel_ko Manual
+    url: /manual/
+  - title: Other Blogs
+    url: /other-blogs/
   - title: Contact
     url: /contact/
+  - title: Disclaimer
+    url: /disclaimer/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
