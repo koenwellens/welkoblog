@@ -2,6 +2,9 @@ html,
 body
     height 100%
 
+.nav-up
+    top: -62px;
+
 .bar-header
     background-color rgba(255,255,255,.7)
     padding rem(10px) rem(15px)
@@ -9,7 +12,8 @@ body
     left 0
     width 100%
     z-index 10
-    transition top 0.5s, left 0.3s ease
+    transition: top 0.5s ease-in-out;
+    //transition top 0.5s, left 0.3s ease
     +above(cut)
         padding rem(15px) rem(0px)
     .logo

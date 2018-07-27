@@ -4,8 +4,8 @@ email: koen.wellens@hotmail.com
 description: A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.
 header: The wel_ko blog
 baseurl: ""
-# url: "http://thewelkoblog.xyz"
-url: ""
+url: "http://thewelkoblog.xyz"
+#url: ""
 google_analytics: "UA-122924885-1"
 
 # User Settings
