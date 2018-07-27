@@ -2,8 +2,8 @@
 title: The wel_ko blog &nbsp;&nbsp;| &nbsp;&nbsp;A blog about reading, writing and the like.
 email: koen.wellens@hotmail.com
 description: A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.
-baseurl: ""
-url: ""
+baseurl: "welkoblog"
+url: "https://koenwellens.github.io/"
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
