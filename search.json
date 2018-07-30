@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Bye-bye Wordpress",
+      "tags"     : "Jekyll, Github Pages, Wordpress, and Blog",
+      "categories" : "Changes",
+      "url"      : "/bye-bye-wordpress/",
+      "date"     : "07/30/2018"
+    } ,
+  
+    {
       "title"    : "The Unrequited Love Poem",
       "tags"     : "Breakup, Love, Memories, Romance, Writing, and Creative Writing",
       "categories" : "Creative Writing",

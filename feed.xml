@@ -5,9 +5,29 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jul 2018 21:29:39 +0200</pubDate>
-    <lastBuildDate>Fri, 27 Jul 2018 21:29:39 +0200</lastBuildDate>
+    <pubDate>Mon, 30 Jul 2018 20:34:22 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Jul 2018 20:34:22 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Bye-bye Wordpress</title>
+        <description>&lt;h3 id=&quot;why-the-big-change&quot;&gt;Why the big change?&lt;/h3&gt; &lt;p&gt;Because I’ve had two blogs for quite some time now. There’s &lt;a href=&quot;https://readingwithwelko.wordpress.com/&quot;&gt;my reading blog&lt;/a&gt;, where I review books and discuss other book-ish matters, and there’s &lt;a href=&quot;https://welkoiswriting.wordpress.com/&quot;&gt;my writing blog&lt;/a&gt;, where I talk about writing and try to post short stories whenever possible. So as you may or may not know, I am maintaining two blogs at the moment.&lt;/p&gt; &lt;p&gt;And that just makes no sense. Why would I keep you away from content? Instead, I want feedback and opinions. So it’s in my interest to get as much content as possible over to you! One...</description>
+        <pubDate>Mon, 30 Jul 2018 20:30:00 +0200</pubDate>
+        <link>/bye-bye-wordpress/</link>
+        <guid isPermaLink="true">/bye-bye-wordpress/</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>Github Pages</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Blog</category>
+        
+        
+        <category>Changes</category>
+        
+      </item>
     
       <item>
         <title>The Unrequited Love Poem</title>
@@ -430,20 +450,6 @@
         <pubDate>Tue, 24 Apr 2018 10:04:33 +0200</pubDate>
         <link>/review-ralph-van-roosmalen-doing-it/</link>
         <guid isPermaLink="true">/review-ralph-van-roosmalen-doing-it/</guid>
-        
-        
-        <category>Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Review: Justin Cronin - The Twelve</title>
-        <description>&lt;p&gt;&lt;em&gt;The Twelve&lt;/em&gt; happens five years after &lt;em&gt;The Passage&lt;/em&gt;. It’s great in many ways. First off, the way things are connected is really brilliant. Cronin does a great job with this. Pieces of this gigantic storyline illustrate the great manner of writing this man possesses. Not only that, you can really feel every character. And that’s a lot. Not only that you can feel them, there seriously are a lot of point-of-views in this story. So many characters for you to experien&amp;lt;/em&amp;gt;e.&lt;/p&gt; &lt;p&gt;While I have become a great fan of Justin Cronin, it annoyed me in the beginning of this book that...</description>
-        <pubDate>Sat, 21 Apr 2018 03:04:06 +0200</pubDate>
-        <link>/review-justin-cronin-the-twelve/</link>
-        <guid isPermaLink="true">/review-justin-cronin-the-twelve/</guid>
-        
-        <category>Fiction</category>
         
         
         <category>Review</category>
