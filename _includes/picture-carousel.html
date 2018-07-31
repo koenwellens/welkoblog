@@ -1,0 +1,6 @@
+<div class="carousel">
+    {% assign urls = page.picture_urls | split: "," %}
+    {% for url in urls %}
+    <img src="{{ url }}" class="carousel-picture">
+    {% endfor %}
+</div>
