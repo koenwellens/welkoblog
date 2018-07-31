@@ -3,7 +3,7 @@ layout: post
 title: "What I've Read - July 2018"
 description: "I haven't read a lot of books in June. I wanted to read <b>seven</b> books, but I only managed <b>five</b>. Here's what I've read, why I only got to five and what I want to read next."
 introduction: "I haven't read a lot of books in June. I wanted to read <b>seven</b> books, but I only managed <b>five</b>. Here's what I've read, why I only got to five and what I want to read next."
-date: 2018-07-31 17:56:19
+date: 2018-08-01 17:56:19
 category: Monthly Summary
 tags:
     - "2018"
