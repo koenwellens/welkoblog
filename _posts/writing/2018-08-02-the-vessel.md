@@ -3,7 +3,7 @@ layout: post
 title: "The Vessel"
 introduction: 'I spent some time looking for a picture of a Vessel. It&#39;s the third exercise from a creative writing prompts list. Instead of going for a picture, I immediately had an idea about a space vessel in my mind. So it&#39;s more of a spacecraft than a vessel, I guess.'
 description: 'I spent some time looking for a picture of a Vessel. It&#39;s the third exercise from <a href="https://thinkwritten.com/365-creative-writing-prompts/">a creative writing prompts list</a>. Instead of going for a picture, I immediately had an idea about a space vessel in my mind. So it&#39;s more of a spacecraft than a vessel, I guess.'
-date: 2018-08-01 10:31:12
+date: 2018-08-02 17:31:12
 image: 'https://cdn.pixabay.com/photo/2013/07/19/17/55/spaceship-165353_1280.jpg'
 category: 'Creative Writing'
 tags:
