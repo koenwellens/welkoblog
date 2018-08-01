@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jul 2018 20:34:22 +0200</pubDate>
-    <lastBuildDate>Mon, 30 Jul 2018 20:34:22 +0200</lastBuildDate>
+    <pubDate>Wed, 01 Aug 2018 19:41:48 +0200</pubDate>
+    <lastBuildDate>Wed, 01 Aug 2018 19:41:48 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>What I've Read - July 2018</title>
+        <description>&lt;h3 id=&quot;missed-opportunities&quot;&gt;Missed Opportunities&lt;/h3&gt; &lt;p&gt;There are three unfinished books that I mentioned last time. &lt;em&gt;Station Eleven&lt;/em&gt; and &lt;em&gt;The Devourer&lt;/em&gt; are two books I didn’t get to start yet. I did start &lt;em&gt;The Plot Whisperer&lt;/em&gt;, but I’m only one quarter in yet. Instead, I read &lt;em&gt;Black Box Thinking&lt;/em&gt; and I started Stephen King’s latest, &lt;em&gt;The Outsider&lt;/em&gt;.&lt;/p&gt; &lt;h3 id=&quot;the-crooked-staircase&quot;&gt;The Crooked Staircase&lt;/h3&gt; &lt;p&gt;I started the month reading &lt;em&gt;The Crooked Staircase&lt;/em&gt;. This is the third book of the Jane Hawk series. If you want to read this one, it’s advised that you read the first two books of the series. You better do, because they’re...</description>
+        <pubDate>Wed, 01 Aug 2018 19:40:19 +0200</pubDate>
+        <link>/what-ive-read-july-2018/</link>
+        <guid isPermaLink="true">/what-ive-read-july-2018/</guid>
+        
+        <category>2018</category>
+        
+        
+        <category>Monthly Summary</category>
+        
+      </item>
     
       <item>
         <title>Bye-bye Wordpress</title>
@@ -438,18 +452,6 @@
         <guid isPermaLink="true">/review-francine-prose-reading-like-a-writer/</guid>
         
         <category>Non-Fiction</category>
-        
-        
-        <category>Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Review: Ralph van Roosmalen - Doing It!</title>
-        <description>&lt;p&gt;Each chapter in this book contains examples on how Ralph implemented the methodologies as defined by Jurgen Appelo. What I liked a lot about it, is that Ralph explains that this might not work on your team. It’s just an idea on how you can implement these things. If you do the same, don’t forget to tweak it. Because what works for his team, might not work for yours.&lt;/p&gt; &lt;p&gt;There’s not really much more I can say about this book. If I would, I’d dive into the content and spoil it. Please read this book if you are interested in...</description>
-        <pubDate>Tue, 24 Apr 2018 10:04:33 +0200</pubDate>
-        <link>/review-ralph-van-roosmalen-doing-it/</link>
-        <guid isPermaLink="true">/review-ralph-van-roosmalen-doing-it/</guid>
         
         
         <category>Review</category>

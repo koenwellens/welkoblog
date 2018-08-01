@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "What I&#39;ve Read - July 2018",
+      "tags"     : "2018",
+      "categories" : "Monthly Summary",
+      "url"      : "/what-ive-read-july-2018/",
+      "date"     : "08/01/2018"
+    } ,
+  
+    {
       "title"    : "Bye-bye Wordpress",
       "tags"     : "Jekyll, Github Pages, Wordpress, and Blog",
       "categories" : "Changes",
