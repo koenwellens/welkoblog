@@ -5,14 +5,17 @@
                 </a>
             </span>
     <div class="box-body">
-        {% if post.image %}
         <div class="cover">
             {% include new-post-tag.html date=post.date %}
-            <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" {%if isnewpost %}class="new-post"{% endif %}>
+            <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" {%if isnewpost %}class="new-post" {%
+               endif %}>
+                {% if post.image %}
                 <img src="assets/img/placeholder.png" data-url="{{ post.image }}" class="preload">
+                {% else %}
+                <div style="width: 250px; display: inline-block;"></div>
+                {% endif %}
             </a>
         </div>
-        {% endif %}
         <div class="box-info">
             <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
             <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
