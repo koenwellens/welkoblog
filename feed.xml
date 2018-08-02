@@ -5,14 +5,34 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Aug 2018 19:41:48 +0200</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 19:41:48 +0200</lastBuildDate>
+    <pubDate>Thu, 02 Aug 2018 19:43:18 +0200</pubDate>
+    <lastBuildDate>Thu, 02 Aug 2018 19:43:18 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>The Vessel</title>
+        <description>&lt;p&gt;Rick Menzou walked through the forest. He had wandered off from the group but that was alright. These days, scouts groups didn’t need to stay in close contact. They could use GPS tags in their suits to find each other. If that would be necessary.&lt;/p&gt; &lt;p&gt;Rick, whom the others sometimes called &lt;em&gt;Mezzou&lt;/em&gt;, wasn’t really looking for something. He liked being an adventurer and hoped to one day join the expeditions himself, just like his father. But instead of walking foreign lands and discovering new places to habit humans, Rick was stuck on Powell 5. There was nothing on this planet...</description>
+        <pubDate>Thu, 02 Aug 2018 09:31:12 +0200</pubDate>
+        <link>/the-vessel/</link>
+        <guid isPermaLink="true">/the-vessel/</guid>
+        
+        <category>Spaceship</category>
+        
+        <category>Adventure</category>
+        
+        <category>Expedition</category>
+        
+        <category>Confusion</category>
+        
+        
+        <category>Creative Writing</category>
+        
+      </item>
     
       <item>
         <title>What I've Read - July 2018</title>
         <description>&lt;h3 id=&quot;missed-opportunities&quot;&gt;Missed Opportunities&lt;/h3&gt; &lt;p&gt;There are three unfinished books that I mentioned last time. &lt;em&gt;Station Eleven&lt;/em&gt; and &lt;em&gt;The Devourer&lt;/em&gt; are two books I didn’t get to start yet. I did start &lt;em&gt;The Plot Whisperer&lt;/em&gt;, but I’m only one quarter in yet. Instead, I read &lt;em&gt;Black Box Thinking&lt;/em&gt; and I started Stephen King’s latest, &lt;em&gt;The Outsider&lt;/em&gt;.&lt;/p&gt; &lt;h3 id=&quot;the-crooked-staircase&quot;&gt;The Crooked Staircase&lt;/h3&gt; &lt;p&gt;I started the month reading &lt;em&gt;The Crooked Staircase&lt;/em&gt;. This is the third book of the Jane Hawk series. If you want to read this one, it’s advised that you read the first two books of the series. You better do, because they’re...</description>
-        <pubDate>Wed, 01 Aug 2018 19:40:19 +0200</pubDate>
+        <pubDate>Wed, 01 Aug 2018 19:56:19 +0200</pubDate>
         <link>/what-ive-read-july-2018/</link>
         <guid isPermaLink="true">/what-ive-read-july-2018/</guid>
         
@@ -441,20 +461,6 @@
         
         
         <category>Monthly Summary</category>
-        
-      </item>
-    
-      <item>
-        <title>Review: Francine Prose - Reading Like a Writer</title>
-        <description>&lt;p&gt;There are a lot of good stuff in this book. Mostly, I try to take two or three lessons from each non-fiction book I read. From this one, I’ve taken about six. That’s really, really great. An example is that Francine Prose explains that each word, not each sentence or each paragraph but each &lt;b&gt;word&lt;/b&gt; should be conveying information. That is strong. I like that.&lt;/p&gt; &lt;p&gt;I guess the balances in the universe work so that for all the good things in this book, there also needs to be at least some bad things. I had one sorrowful moment when I lost...</description>
-        <pubDate>Fri, 27 Apr 2018 06:04:47 +0200</pubDate>
-        <link>/review-francine-prose-reading-like-a-writer/</link>
-        <guid isPermaLink="true">/review-francine-prose-reading-like-a-writer/</guid>
-        
-        <category>Non-Fiction</category>
-        
-        
-        <category>Review</category>
         
       </item>
     

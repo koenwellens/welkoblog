@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Vessel",
+      "tags"     : "Spaceship, Adventure, Expedition, and Confusion",
+      "categories" : "Creative Writing",
+      "url"      : "/the-vessel/",
+      "date"     : "08/02/2018"
+    } ,
+  
+    {
       "title"    : "What I&#39;ve Read - July 2018",
       "tags"     : "2018",
       "categories" : "Monthly Summary",
