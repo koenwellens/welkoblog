@@ -3,18 +3,18 @@
   <channel>
     <title>The wel_ko blog | A blog about reading, writing and the like.</title>
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Aug 2018 12:51:24 +0200</pubDate>
-    <lastBuildDate>Fri, 03 Aug 2018 12:51:24 +0200</lastBuildDate>
+    <link>http://thewelkoblog.xyz/</link>
+    <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 03 Aug 2018 20:32:43 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Aug 2018 20:32:43 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>Review: Stephen King - The Outsider</title>
         <description>&lt;p&gt;Stephen King has improved his writing a lot over the last decades. I remember reading some stories and loving the beginning and end, but hating the middle parts because they were boring. Instead of that, &lt;em&gt;The Outsider&lt;/em&gt; keeps you turning pages time and time again.&lt;/p&gt; &lt;p&gt;He is a master at character development. He is a master of suspense. I can only think of one flaw for this book: I want to know more about the Outsider. We’re left with some questions - as King points out via the voice of his characters. But this is just a minor flaw. I...</description>
         <pubDate>Fri, 03 Aug 2018 11:00:34 +0200</pubDate>
-        <link>/review-stephen-king-the-outsider/</link>
-        <guid isPermaLink="true">/review-stephen-king-the-outsider/</guid>
+        <link>http://thewelkoblog.xyz/review-stephen-king-the-outsider/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-stephen-king-the-outsider/</guid>
         
         <category>Fiction</category>
         
@@ -27,8 +27,8 @@
         <title>The Vessel</title>
         <description>&lt;p&gt;Rick Menzou walked through the forest. He had wandered off from the group but that was alright. These days, scouts groups didn’t need to stay in close contact. They could use GPS tags in their suits to find each other. If that would be necessary.&lt;/p&gt; &lt;p&gt;Rick, whom the others sometimes called &lt;em&gt;Mezzou&lt;/em&gt;, wasn’t really looking for something. He liked being an adventurer and hoped to one day join the expeditions himself, just like his father. But instead of walking foreign lands and discovering new places to habit humans, Rick was stuck on Powell 5. There was nothing on this planet...</description>
         <pubDate>Thu, 02 Aug 2018 09:31:12 +0200</pubDate>
-        <link>/the-vessel/</link>
-        <guid isPermaLink="true">/the-vessel/</guid>
+        <link>http://thewelkoblog.xyz/the-vessel/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/the-vessel/</guid>
         
         <category>Spaceship</category>
         
@@ -47,8 +47,8 @@
         <title>What I've Read - July 2018</title>
         <description>&lt;h3 id=&quot;missed-opportunities&quot;&gt;Missed Opportunities&lt;/h3&gt; &lt;p&gt;There are three unfinished books that I mentioned last time. &lt;em&gt;Station Eleven&lt;/em&gt; and &lt;em&gt;The Devourer&lt;/em&gt; are two books I didn’t get to start yet. I did start &lt;em&gt;The Plot Whisperer&lt;/em&gt;, but I’m only one quarter in yet. Instead, I read &lt;em&gt;Black Box Thinking&lt;/em&gt; and I started Stephen King’s latest, &lt;em&gt;The Outsider&lt;/em&gt;.&lt;/p&gt; &lt;h3 id=&quot;the-crooked-staircase&quot;&gt;The Crooked Staircase&lt;/h3&gt; &lt;p&gt;I started the month reading &lt;em&gt;The Crooked Staircase&lt;/em&gt;. This is the third book of the Jane Hawk series. If you want to read this one, it’s advised that you read the first two books of the series. You better do, because they’re...</description>
         <pubDate>Wed, 01 Aug 2018 19:56:19 +0200</pubDate>
-        <link>/what-ive-read-july-2018/</link>
-        <guid isPermaLink="true">/what-ive-read-july-2018/</guid>
+        <link>http://thewelkoblog.xyz/what-ive-read-july-2018/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/what-ive-read-july-2018/</guid>
         
         <category>2018</category>
         
@@ -61,8 +61,8 @@
         <title>Bye-bye Wordpress</title>
         <description>&lt;h3 id=&quot;why-the-big-change&quot;&gt;Why the big change?&lt;/h3&gt; &lt;p&gt;Because I’ve had two blogs for quite some time now. There’s &lt;a href=&quot;https://readingwithwelko.wordpress.com/&quot;&gt;my reading blog&lt;/a&gt;, where I review books and discuss other book-ish matters, and there’s &lt;a href=&quot;https://welkoiswriting.wordpress.com/&quot;&gt;my writing blog&lt;/a&gt;, where I talk about writing and try to post short stories whenever possible. So as you may or may not know, I am maintaining two blogs at the moment.&lt;/p&gt; &lt;p&gt;And that just makes no sense. Why would I keep you away from content? Instead, I want feedback and opinions. So it’s in my interest to get as much content as possible over to you! One...</description>
         <pubDate>Mon, 30 Jul 2018 20:30:00 +0200</pubDate>
-        <link>/bye-bye-wordpress/</link>
-        <guid isPermaLink="true">/bye-bye-wordpress/</guid>
+        <link>http://thewelkoblog.xyz/bye-bye-wordpress/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/bye-bye-wordpress/</guid>
         
         <category>Jekyll</category>
         
@@ -81,8 +81,8 @@
         <title>The Unrequited Love Poem</title>
         <description>&lt;p&gt;I forgot to ask something in my last post. If you have any feedback, please leave a comment below the stories! Anything is useful. I’d love to hear what you think.&lt;/p&gt; &lt;p&gt;She closed the book. After reading the poem, she was certain. She had never seen the words so clear before. She was trapped in a marriage with a man she didn’t love anymore. It’s been that way for a long time now.&lt;/p&gt; &lt;p&gt;She decided for herself that the moment had come to express her feelings. To explain her thoughts and to make it very, very clear. It was time...</description>
         <pubDate>Thu, 26 Jul 2018 19:44:45 +0200</pubDate>
-        <link>/the-unrequited-love-poem/</link>
-        <guid isPermaLink="true">/the-unrequited-love-poem/</guid>
+        <link>http://thewelkoblog.xyz/the-unrequited-love-poem/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/the-unrequited-love-poem/</guid>
         
         <category>Breakup</category>
         
@@ -105,8 +105,8 @@
         <title>Review: S.J. Delos - So Not a Hero</title>
         <description>&lt;p&gt;Wow. There are many treasures in this book. Well written emotional scenes. Multiple sex scenes, some more explicit than others. And a superhero battle to lick your fingers clean. But there’s a problem. While I understand all those different scenes can be useful in a superhero book, I would expect a lot more of the superhero battles. And there is only one.&lt;/p&gt; &lt;p&gt;Instead, this book focuses on a very sexist way of looking at the protagonist. She is an enhanced woman who looks and acts like a sex object. So do all the other women she interacts with – except...</description>
         <pubDate>Tue, 24 Jul 2018 21:26:27 +0200</pubDate>
-        <link>/review-s-j-delos-so-not-a-hero/</link>
-        <guid isPermaLink="true">/review-s-j-delos-so-not-a-hero/</guid>
+        <link>http://thewelkoblog.xyz/review-s-j-delos-so-not-a-hero/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-s-j-delos-so-not-a-hero/</guid>
         
         <category>Fiction</category>
         
@@ -119,8 +119,8 @@
         <title>Outside the Window</title>
         <description>&lt;p&gt;It was a beautiful spring morning. I was looking outside when I heard a yell come from the back door. At first I didn’t want to go and look. Not after the sounds I had heard the previous night. The yelling persisted, so I dragged myself out of the bed and went downstairs.&lt;/p&gt; &lt;p&gt;I strode to the back door as quiet as I could. I had left my slippers upstairs, hoping my bare feet wouldn’t give me away. When I came close to the door, the yelling stopped. I stood still.&lt;/p&gt; &lt;p&gt;After a few minutes of dead silence, I took...</description>
         <pubDate>Thu, 19 Jul 2018 06:07:33 +0200</pubDate>
-        <link>/outside-the-window/</link>
-        <guid isPermaLink="true">/outside-the-window/</guid>
+        <link>http://thewelkoblog.xyz/outside-the-window/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/outside-the-window/</guid>
         
         <category>Anxiety</category>
         
@@ -137,8 +137,8 @@
         <title>Review: Matthew Syed - Black Box Thinking</title>
         <description>&lt;p&gt;As the author explains, &lt;em&gt;Black Box Thinking&lt;/em&gt; is not about thinking about certain things as ‘black boxes’, things that we don’t know (or want to know) the internals from. Instead, it’s an analogy to the aviation sector, where black boxes are used to learn and improve the flight processes.&lt;/p&gt; &lt;p&gt;Matthew Syed brings up examples in a way that many fiction artists are jealous of. He builds his story perfectly and brings up tension in the right places. What’s even better, next to the many examples he tells a story about himself. How Matthew himself is human and thus susceptible to making...</description>
         <pubDate>Wed, 18 Jul 2018 08:07:48 +0200</pubDate>
-        <link>/review-matthew-syed-black-box-thinking/</link>
-        <guid isPermaLink="true">/review-matthew-syed-black-box-thinking/</guid>
+        <link>http://thewelkoblog.xyz/review-matthew-syed-black-box-thinking/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-matthew-syed-black-box-thinking/</guid>
         
         <category>Non-Fiction</category>
         
@@ -151,8 +151,8 @@
         <title>Creative Writing</title>
         <description>&lt;p&gt;I’ve had a smaller setback for the book I’m writing. Long story short: I put the project on hold so that I can give it the full amount of attention it deserves. A small price for a big prize. But that doesn’t mean I want to stop writing.&lt;/p&gt; &lt;h3 id=&quot;so-what-now-then&quot;&gt;So what now then?&lt;/h3&gt; &lt;p&gt;I want to put my current writing project on hold but I don’t want to put writing itself on hold. So I need to find something that I can still do. Something that doesn’t take a lot of planning or time. I’ve come across this idea at...</description>
         <pubDate>Sun, 15 Jul 2018 08:07:10 +0200</pubDate>
-        <link>/creative-writing/</link>
-        <guid isPermaLink="true">/creative-writing/</guid>
+        <link>http://thewelkoblog.xyz/creative-writing/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/creative-writing/</guid>
         
         
         <category>Creative Writing</category>
@@ -163,8 +163,8 @@
         <title>An A-Z Survey About Books</title>
         <description>&lt;p&gt;I had seen the concept of an A-Z survey before but seeing it applied to books made me itch to try this out myself. So stay tuned for 26 revelations about books and me.&lt;/p&gt; &lt;h3 id=&quot;author-youve-read-the-most-books-from&quot;&gt;AUTHOR YOU’VE READ THE MOST BOOKS FROM&lt;/h3&gt; &lt;p&gt;This is not a tough question. As a teenager, I’ve spent my time reading all the books of Stephen King. Who hasn’t read books from him, right? Well, after I finished &lt;em&gt;Rage&lt;/em&gt; – which was published under his false identity Richard Bachman – I was sold. I have been a fan ever since.&lt;/p&gt; &lt;p&gt;I’d like to present you...</description>
         <pubDate>Sat, 14 Jul 2018 10:07:17 +0200</pubDate>
-        <link>/an-a-z-survey-about-books/</link>
-        <guid isPermaLink="true">/an-a-z-survey-about-books/</guid>
+        <link>http://thewelkoblog.xyz/an-a-z-survey-about-books/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/an-a-z-survey-about-books/</guid>
         
         <category>Tags</category>
         
@@ -181,8 +181,8 @@
         <title>Review: C.T. Phipps - The Secrets of Supervillainy</title>
         <description>&lt;p&gt;There’s a lot more time between this third book of the series and its predecessor. Which is okay. Some things happen off-screen – if you can talk about a screen here – and that’s okay as well. The sad part is that the story takes a long time to really get interesting. There’s some time catching up for what you can’t read, but then there’s just a long time of nothing really happening.&lt;/p&gt; &lt;p&gt;The ending of the book gets a lot better. And when you’re at the edge of your seat… the book ends. Not the story though. I guess...</description>
         <pubDate>Thu, 12 Jul 2018 10:07:07 +0200</pubDate>
-        <link>/review-c-t-phipps-the-secrets-of-supervillainy/</link>
-        <guid isPermaLink="true">/review-c-t-phipps-the-secrets-of-supervillainy/</guid>
+        <link>http://thewelkoblog.xyz/review-c-t-phipps-the-secrets-of-supervillainy/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-c-t-phipps-the-secrets-of-supervillainy/</guid>
         
         <category>Fiction</category>
         
@@ -195,8 +195,8 @@
         <title>Review: Dale Carnegie - How to Win Friends and Influence People</title>
         <description>&lt;p&gt;This book doesn’t really tell you how to win friends, but explains what behaviour causes people te like you more often. For instance, if you remember people’s names they will appreciate you more. Might sound trivial, but do we do this at all times? It’s small things like this that make other people open up to us… and how they become friends.&lt;/p&gt; &lt;p&gt;There are a lot of tips in this book. That’s a plus, because it’s about self-improvement! But this book also has a lot of content, which makes it slow to read. I guess that’s the worst thing I...</description>
         <pubDate>Tue, 10 Jul 2018 12:07:33 +0200</pubDate>
-        <link>/review-dale-carnegie-how-to-win-friends-and-influence-people/</link>
-        <guid isPermaLink="true">/review-dale-carnegie-how-to-win-friends-and-influence-people/</guid>
+        <link>http://thewelkoblog.xyz/review-dale-carnegie-how-to-win-friends-and-influence-people/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dale-carnegie-how-to-win-friends-and-influence-people/</guid>
         
         <category>Non-Fiction</category>
         
@@ -209,8 +209,8 @@
         <title>Review: Dean Koontz - The Crooked Staircase</title>
         <description>&lt;p&gt;For me, up until now, this is most likely the worst book in the series. That doesn’t mean much if the other two are great of course, but still. I had a lot of troubles with this one. First off, but this is kind of nitpicking, Koontz is not the best POV writer. He tries to make you follow certain characters, which is great, but you’re more in a God-like POV. You notice things that the character you’re currently following has no way of knowing/seeing/hearing.&lt;/p&gt; &lt;p&gt;Where &lt;em&gt;The Whispering Room&lt;/em&gt; had a lot of stuff going on, this book actually focusses on...</description>
         <pubDate>Thu, 05 Jul 2018 05:07:59 +0200</pubDate>
-        <link>/review-dean-koontz-the-crooked-staircase/</link>
-        <guid isPermaLink="true">/review-dean-koontz-the-crooked-staircase/</guid>
+        <link>http://thewelkoblog.xyz/review-dean-koontz-the-crooked-staircase/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dean-koontz-the-crooked-staircase/</guid>
         
         <category>Fiction</category>
         
@@ -223,8 +223,8 @@
         <title>What I've Read: June 2018</title>
         <description>&lt;p&gt;Maybe it’s because of the books… let’s go over those!&lt;/p&gt; &lt;h2 id=&quot;the-whispering-room&quot;&gt;The Whispering Room&lt;/h2&gt; &lt;p&gt;I revisited the Jane Hawk series. I remember the first one being cool. A bit sci-fi, a lot of action and suspense. Yet not as good as an Orphan X book. I took this one up and was immediately happy that I did.&lt;/p&gt; &lt;p&gt;&lt;em&gt;The Whispering Room&lt;/em&gt; takes us further in the crazy story Koontz is telling. At least I hope it’s crazy… and not real. Jane Hawk is a great character and making it happen. If you’re a fan of action-packed thrillers, go read this!&lt;/p&gt; &lt;h2...</description>
         <pubDate>Sun, 01 Jul 2018 06:07:12 +0200</pubDate>
-        <link>/what-ive-read-june-2018/</link>
-        <guid isPermaLink="true">/what-ive-read-june-2018/</guid>
+        <link>http://thewelkoblog.xyz/what-ive-read-june-2018/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/what-ive-read-june-2018/</guid>
         
         <category>2018</category>
         
@@ -237,8 +237,8 @@
         <title>Review: Cathy Yardley - Write Every Day</title>
         <description>&lt;p&gt;&lt;em&gt;Write Every Day&lt;/em&gt; does not give you writing advice. It does not focus on topics like character development or editing. Instead, it focuses on trying to write. What are things that stop you from writing? And at what moments are you able to connect the letters to form reasonable sentences? These questions are the ones you need to answer.&lt;/p&gt; &lt;p&gt;Crazily enough, this book reminded me about my job. In a good way. Cathy Yardley tells writers how to be agile. How to improve their process and how to remove motivation issues. That’s exactly what we want to do in the...</description>
         <pubDate>Fri, 29 Jun 2018 08:06:22 +0200</pubDate>
-        <link>/review-cathy-yardley-write-every-day/</link>
-        <guid isPermaLink="true">/review-cathy-yardley-write-every-day/</guid>
+        <link>http://thewelkoblog.xyz/review-cathy-yardley-write-every-day/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-cathy-yardley-write-every-day/</guid>
         
         <category>Non-Fiction</category>
         
@@ -251,8 +251,8 @@
         <title>Review: Dennis E. Taylor - All These Worlds</title>
         <description>&lt;p&gt;The third instalment of the series continues the storylines that were started in &lt;em&gt;We Are Legion (We Are Bob)&lt;/em&gt; and &lt;em&gt;For We Are Many&lt;/em&gt;. Taylor does a great job in giving the same guy different personalities. Because basically, the Bobs are one and the same guy. Or aren’t they? After reading the trilogy, you might not be so sure.&lt;/p&gt; &lt;p&gt;This book covers the biggest space war in human history. I mean human future. And the most beautiful story for an afterlife android. And the greatest search ever done (by Bender) in human history/future. And a cool story about the world’s funniest engineer.&lt;/p&gt;...</description>
         <pubDate>Wed, 27 Jun 2018 09:06:01 +0200</pubDate>
-        <link>/review-dennis-e-taylor-all-these-worlds/</link>
-        <guid isPermaLink="true">/review-dennis-e-taylor-all-these-worlds/</guid>
+        <link>http://thewelkoblog.xyz/review-dennis-e-taylor-all-these-worlds/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dennis-e-taylor-all-these-worlds/</guid>
         
         <category>Fiction</category>
         
@@ -265,8 +265,8 @@
         <title>Review: C. T. Phipps - The Games of Supervillainy</title>
         <description>&lt;p&gt;&lt;em&gt;The Games of Supervillainy&lt;/em&gt; takes off immediately after the events of &lt;em&gt;The Rules of Supervillainy&lt;/em&gt;. The humour and style remain the same. That means it’s hilarious! It feels like these books are getting better and better. I can’t wait to read the next one!&lt;/p&gt; &lt;p&gt;A quick note on the importance of chapter titles. C. T. Phipps shows that good chapter titles really add value. Often, I’m already laughing before I read the chapter. Good job, man. Good job.&lt;/p&gt; &lt;p&gt;This book had everything I wanted. Even the ending was great. I haven’t felt so much emotions together with a ridiculous character in...</description>
         <pubDate>Fri, 22 Jun 2018 08:06:43 +0200</pubDate>
-        <link>/review-c-t-phipps-the-games-of-supervillainy/</link>
-        <guid isPermaLink="true">/review-c-t-phipps-the-games-of-supervillainy/</guid>
+        <link>http://thewelkoblog.xyz/review-c-t-phipps-the-games-of-supervillainy/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-c-t-phipps-the-games-of-supervillainy/</guid>
         
         <category>Fiction</category>
         
@@ -279,8 +279,8 @@
         <title>Review: Dennis E. Taylor - For We Are Many</title>
         <description>&lt;p&gt;This book takes off immediately after the events of &lt;em&gt;We Are Legion (We Are Bob)&lt;/em&gt;. The humour in this books doesn’t seem to get old. The names the Bobs choose, the jokes they make, the sarcasm. It’s all great! I’ve had many moments where I literally laughed out loud. People stare at you when you do that in public. Strange.&lt;/p&gt; &lt;p&gt;What I disliked about the first instalment of the series was that it was getting hard to follow. Somehow I did not have that problem in this book. Am I more used to Bob-skipping? Did Dennis E. Taylor build it up...</description>
         <pubDate>Wed, 20 Jun 2018 11:06:02 +0200</pubDate>
-        <link>/review-dennis-e-taylor-for-we-are-many/</link>
-        <guid isPermaLink="true">/review-dennis-e-taylor-for-we-are-many/</guid>
+        <link>http://thewelkoblog.xyz/review-dennis-e-taylor-for-we-are-many/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dennis-e-taylor-for-we-are-many/</guid>
         
         <category>Fiction</category>
         
@@ -293,8 +293,8 @@
         <title>Review: Eric Barker - Barking Up the Wrong Tree</title>
         <description>&lt;p&gt;Eric Barker does a good job at keeping you focused on what he’s saying. There’s a lot of stories, anecdotes and examples in this book to emphasise what he means. There’s some jokes here too. They keep the book playful and interesting.&lt;/p&gt; &lt;p&gt;The message that Barker gives you is strong. It opens up your mind to take things into account. Should you grit or should you quit? Immediately after I finished this book, I started measuring my time to see where I needed to quit. Surprisingly, it helped me.&lt;/p&gt; &lt;p&gt;I liked this book. It was well written, fun to read...</description>
         <pubDate>Sat, 16 Jun 2018 03:06:05 +0200</pubDate>
-        <link>/review-eric-barker-barking-up-the-wrong-tree/</link>
-        <guid isPermaLink="true">/review-eric-barker-barking-up-the-wrong-tree/</guid>
+        <link>http://thewelkoblog.xyz/review-eric-barker-barking-up-the-wrong-tree/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-eric-barker-barking-up-the-wrong-tree/</guid>
         
         <category>Non-Fiction</category>
         
@@ -307,8 +307,8 @@
         <title>Review: Sam Newman - Building Microservices</title>
         <description>&lt;p&gt;Newman starts his book by giving his view on software development and why he doesn’t like the term software architects. This already shows that the man has got it right. He then explains microservices, the ideas behind them and how to build them in a correct way.&lt;/p&gt; &lt;p&gt;There are so many useful references in this book. While there aren’t that much code examples, which is okay given the topics Newman touches, you get a good idea of what needs to be done. At the end, the book seems to read less smooth than in the beginning.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;“Change is inevitable....</description>
         <pubDate>Thu, 14 Jun 2018 06:06:26 +0200</pubDate>
-        <link>/review-sam-newman-building-microservices/</link>
-        <guid isPermaLink="true">/review-sam-newman-building-microservices/</guid>
+        <link>http://thewelkoblog.xyz/review-sam-newman-building-microservices/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-sam-newman-building-microservices/</guid>
         
         <category>Non-Fiction</category>
         
@@ -321,8 +321,8 @@
         <title>Review: C. T. Phipps - The Rules of Supervillainy</title>
         <description>&lt;p&gt;The first part of this series, which becomes clear by the loose ends left dangling throughout the story, contains a well-told origin story of Merciless, the supervillain without mercy. While in some books the loose ends can be annoying, they didn’t bother me here at all. Probably because so much was happening at a fast pace, or because the book was really funny. Or both.&lt;/p&gt; &lt;p&gt;The character Merciless likes to make fan of its own genre. He points out the historically grown flaws in his fellow villains and his opposing heroes. Deadpool much? It’s getting close. As a fan of...</description>
         <pubDate>Tue, 12 Jun 2018 08:06:04 +0200</pubDate>
-        <link>/review-c-t-phipps-the-rules-of-supervillainy/</link>
-        <guid isPermaLink="true">/review-c-t-phipps-the-rules-of-supervillainy/</guid>
+        <link>http://thewelkoblog.xyz/review-c-t-phipps-the-rules-of-supervillainy/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-c-t-phipps-the-rules-of-supervillainy/</guid>
         
         <category>Fiction</category>
         
@@ -335,8 +335,8 @@
         <title>Review: Rayne Hall - Writing Deep Point of View</title>
         <description>&lt;p&gt;This book is filled with tips and tricks to improve your writing. It doesn’t explain what is better than the other, just what readers expect when going for deep point of view. Hall is good at explaining that this writing style is not the only existing one. Indeed, she provides exercises as well as multiple references to best practices.&lt;/p&gt; &lt;p&gt;One thing I especially liked in this book were the examples given. Rayne Hall is a fan of using her own work as examples for her teachings, but that doesn’t stop her from coming up with alternatives. The end of the...</description>
         <pubDate>Sun, 10 Jun 2018 03:06:18 +0200</pubDate>
-        <link>/review-rayne-hall-writing-deep-point-of-view/</link>
-        <guid isPermaLink="true">/review-rayne-hall-writing-deep-point-of-view/</guid>
+        <link>http://thewelkoblog.xyz/review-rayne-hall-writing-deep-point-of-view/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-rayne-hall-writing-deep-point-of-view/</guid>
         
         <category>Non-Fiction</category>
         
@@ -349,8 +349,8 @@
         <title>Review: Dennis E. Taylor - We Are Legion (We Are Bob)</title>
         <description>&lt;p&gt;In this book, we follow Bob Johansson for what is most likely the most unlikely story possible. Getting revived in the future, only to become an artificial intelligence? It’s a fun concept, but I liked how creative Taylor is. He has a sarcastic way of writing, providing plenty pop-culture references, that really floats my boat.&lt;/p&gt; &lt;p&gt;I don’t want to spoil, but the title already suggests it. And if you don’t get it, read the bible. At some point, there will be many Bobs. It is very funny, very weird and sometimes a little bit confusing. We view the story through...</description>
         <pubDate>Fri, 08 Jun 2018 06:06:22 +0200</pubDate>
-        <link>/review-dennis-e-taylor-we-are-legion-we-are-bob/</link>
-        <guid isPermaLink="true">/review-dennis-e-taylor-we-are-legion-we-are-bob/</guid>
+        <link>http://thewelkoblog.xyz/review-dennis-e-taylor-we-are-legion-we-are-bob/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dennis-e-taylor-we-are-legion-we-are-bob/</guid>
         
         <category>Fiction</category>
         
@@ -370,8 +370,8 @@
 &lt;p&gt;In the next month, you’ll see more superhero books. Stay tuned for my autumn theme, which I’ll reveal in September…&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Jun 2018 06:06:22 +0200</pubDate>
-        <link>/summer-theme-2018/</link>
-        <guid isPermaLink="true">/summer-theme-2018/</guid>
+        <link>http://thewelkoblog.xyz/summer-theme-2018/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/summer-theme-2018/</guid>
         
         
         <category>Changes</category>
@@ -382,8 +382,8 @@
         <title>Review: Dean Koontz - The Whispering Room</title>
         <description>&lt;p&gt;Fast-paced action! That’s what you get when you read this book. Koontz is a master of suspense. Before you get a chance to process what’s going on, you’re hit with another assault on Jane. By the time when she finally sits down for a few pages, she’ll be in a restaurant keeping ladies safe from murderers.&lt;/p&gt; &lt;p&gt;The only bad thing about this book might be the ending. It might be a bit anti-climactic. But still this is a great book. And there’s a third out already! And a fourth on the way! Hurray!&lt;/p&gt; &lt;p&gt;I liked &lt;em&gt;The Whispering Room&lt;/em&gt; a lot. It...</description>
         <pubDate>Mon, 04 Jun 2018 10:06:22 +0200</pubDate>
-        <link>/review-dean-koontz-the-whispering-room/</link>
-        <guid isPermaLink="true">/review-dean-koontz-the-whispering-room/</guid>
+        <link>http://thewelkoblog.xyz/review-dean-koontz-the-whispering-room/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-dean-koontz-the-whispering-room/</guid>
         
         <category>Fiction</category>
         
@@ -396,8 +396,8 @@
         <title>What I've Read: May 2018</title>
         <description>&lt;p&gt;Anyway, enough of that blabber. Here’s an overview of the books I’ve read in May.&lt;/p&gt; &lt;h2 id=&quot;missed-opportunities&quot;&gt;Missed Opportunities&lt;/h2&gt; &lt;p&gt;I have started in two books that I was planning, namely &lt;em&gt;Building Microservices&lt;/em&gt; and &lt;em&gt;Writing Deep Point of View&lt;/em&gt;. So it’s not like I completely failed, I just didn’t manage to finish them in time. Then I also planned for &lt;em&gt;Sphere&lt;/em&gt; by Michael Crichton. Instead, I started reading &lt;em&gt;The Whispering Room&lt;/em&gt; by Dean Koontz. It’s awesome. It will get me back on track in the Jane Hawk series and that is worth it. I regret nothing.&lt;/p&gt; &lt;h2 id=&quot;the-city-of-mirrors&quot;&gt;The City of Mirrors&lt;/h2&gt; &lt;p&gt;The month started with me...</description>
         <pubDate>Sat, 02 Jun 2018 03:06:16 +0200</pubDate>
-        <link>/what-ive-read-may-2018/</link>
-        <guid isPermaLink="true">/what-ive-read-may-2018/</guid>
+        <link>http://thewelkoblog.xyz/what-ive-read-may-2018/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/what-ive-read-may-2018/</guid>
         
         <category>2018</category>
         
@@ -410,8 +410,8 @@
         <title>Review: Alastair Reynolds - Revenger</title>
         <description>&lt;p&gt;This book starts with space mumbo jumbo. Lots of it. There’s not so much explanation either, but maybe I’m not really used to it yet. You get the explanation as the story progresses. Then, the space mumbo jumbo transforms to pirate space mumbo jumbo. Pirates… in space.&lt;/p&gt; &lt;p&gt;Overall, the plot is good. That makes up a lot. But this book mainly builds up for a next story. That’s what’s sad about this story. There is a lot of potential, but it becomes clear about halfway through how it’s going to end, and the last part is more build-up then closure...</description>
         <pubDate>Mon, 28 May 2018 07:05:22 +0200</pubDate>
-        <link>/review-alastair-reynolds-revenger/</link>
-        <guid isPermaLink="true">/review-alastair-reynolds-revenger/</guid>
+        <link>http://thewelkoblog.xyz/review-alastair-reynolds-revenger/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-alastair-reynolds-revenger/</guid>
         
         <category>Fiction</category>
         
@@ -424,8 +424,8 @@
         <title>Review: Kevin Hart - I Can't Make This Up</title>
         <description>&lt;p&gt;This really is a good book. I can’t say it differently. There’s good advice and funny jokes. Some stuff is so f*cked up, you’re really wondering whether it was made up or not. But in the end, I believe it. Although he mentioned he didn’t read any book himself, I seriously doubt that. He is very good at ending chapters with enough tension for you to read the next.&lt;/p&gt; &lt;p&gt;Some things were extremely funny. I actually listened to the audiobook and it is read by Kevin Hart. Which he does great! But while things were funny, there were details I...</description>
         <pubDate>Sat, 19 May 2018 07:05:13 +0200</pubDate>
-        <link>/review-kevin-hart-i-cant-make-this-up/</link>
-        <guid isPermaLink="true">/review-kevin-hart-i-cant-make-this-up/</guid>
+        <link>http://thewelkoblog.xyz/review-kevin-hart-i-cant-make-this-up/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-kevin-hart-i-cant-make-this-up/</guid>
         
         <category>Non-Fiction</category>
         
@@ -438,8 +438,8 @@
         <title>Review: Justin Cronin - The City of Mirrors</title>
         <description>&lt;p&gt;&lt;em&gt;The City of Mirrors&lt;/em&gt; takes off after the events of &lt;em&gt;The Twelve&lt;/em&gt;. With Peter, Michael, Sara, Alicia, Hollis and plenty more. While the previous book only spent about 5 years in this crazy post-apocalyptic universe, &lt;em&gt;The City of Mirrors&lt;/em&gt; spends over a thousand. Where I found the transition a bit too fast in The Passage, I can’t say that is a problem in this book. Cronin does it perfectly.&lt;/p&gt; &lt;p&gt;Cronin has mastered the skill of character development. Be prepared to feel sorry for Tim Fanning, the bad guy in this book. At the end, he was the first character I...</description>
         <pubDate>Tue, 15 May 2018 03:05:03 +0200</pubDate>
-        <link>/review-justin-cronin-the-city-of-mirrors/</link>
-        <guid isPermaLink="true">/review-justin-cronin-the-city-of-mirrors/</guid>
+        <link>http://thewelkoblog.xyz/review-justin-cronin-the-city-of-mirrors/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-justin-cronin-the-city-of-mirrors/</guid>
         
         <category>Fiction</category>
         
@@ -452,8 +452,8 @@
         <title>4 Reading Myths Busted</title>
         <description>&lt;h2 id=&quot;1-nobody-reads-nowadays&quot;&gt;1 Nobody reads nowadays&lt;/h2&gt; &lt;p&gt;Haven’t you heard this one yet? Maybe you even said it yourself. These days, man, there’s the internet and Netflix and youtube and a lot of cooler things than books. Nobody’s interested in those.&lt;/p&gt; &lt;p&gt;Errr, wrong! While I cannot give you any statistics about how much people are reading daily or how many books are still sold, I can tell you this: have you been on a train recently? Because I have. Almost everybody I see either has a book or an e-reader. What they do with that? I don’t think they’re watching Netflix, Sherlock.&lt;/p&gt;...</description>
         <pubDate>Thu, 03 May 2018 14:05:34 +0200</pubDate>
-        <link>/4-reading-myths-busted/</link>
-        <guid isPermaLink="true">/4-reading-myths-busted/</guid>
+        <link>http://thewelkoblog.xyz/4-reading-myths-busted/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/4-reading-myths-busted/</guid>
         
         <category>Myths</category>
         
