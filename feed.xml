@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Aug 2018 19:43:18 +0200</pubDate>
-    <lastBuildDate>Thu, 02 Aug 2018 19:43:18 +0200</lastBuildDate>
+    <pubDate>Fri, 03 Aug 2018 12:36:23 +0200</pubDate>
+    <lastBuildDate>Fri, 03 Aug 2018 12:36:23 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Review: Stephen King - The Outsider</title>
+        <description>&lt;p&gt;Stephen King has improved his writing a lot over the last decades. I remember reading some stories and loving the beginning and end, but hating the middle parts because they were boring. Instead of that, &lt;em&gt;The Outsider&lt;/em&gt; keeps you turning pages time and time again.&lt;/p&gt; &lt;p&gt;He is a master at character development. He is a master of suspense. I can only think of one flaw for this book: I want to know more about the Outsider. We’re left with some questions - as King points out via the voice of his characters. But this is just a minor flaw. I...</description>
+        <pubDate>Fri, 03 Aug 2018 11:00:34 +0200</pubDate>
+        <link>/review-stephen-king-the-outsider/</link>
+        <guid isPermaLink="true">/review-stephen-king-the-outsider/</guid>
+        
+        <category>Fiction</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>The Vessel</title>
@@ -447,20 +461,6 @@
         
         
         <category>Reasons to Read</category>
-        
-      </item>
-    
-      <item>
-        <title>What I've Read: April 2018</title>
-        <description>&lt;p&gt;Plus, I went to see Avengers: Infinity War on Sunday. If you haven’t yet, go do so fast! It’s awesome!&lt;/p&gt; &lt;h2 id=&quot;missed-opportunities&quot;&gt;Missed Opportunities&lt;/h2&gt; &lt;p&gt;I wanted to read &lt;em&gt;Building Microservices&lt;/em&gt;, but I only had the PDF file. Hence, I reformatted to a MOBI and sent it to my Kindle. But it was a complete failure: the pages were filled with gibberish. Too bad, you’d say. But I found another book that I could read: &lt;em&gt;Doing It!&lt;/em&gt;&lt;/p&gt; &lt;h2 id=&quot;starship-troopers&quot;&gt;Starship Troopers&lt;/h2&gt; &lt;p&gt;I started the month reading &lt;em&gt;Starship Troopers&lt;/em&gt;. This book about the battle against bug-like aliens has been on my mind for quite a while now....</description>
-        <pubDate>Tue, 01 May 2018 10:05:39 +0200</pubDate>
-        <link>/what-ive-read-april-2018/</link>
-        <guid isPermaLink="true">/what-ive-read-april-2018/</guid>
-        
-        <category>2018</category>
-        
-        
-        <category>Monthly Summary</category>
         
       </item>
     
