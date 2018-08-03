@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Stephen King - The Outsider"
 description: 'There are not a lot of books that can grip you word by word. The more pages there are, the harder it gets. I am very lucky to have found one of those books! Thank you, Stephen King.'
-date: 2018-08-02 09:00:34
+date: 2018-08-03 09:00:34
 image: 'https://images.gr-assets.com/books/1524596540l/36124936.jpg'
 category: 'Review'
 tags: 
