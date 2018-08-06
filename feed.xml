@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>http://thewelkoblog.xyz/</link>
     <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Aug 2018 20:32:43 +0200</pubDate>
-    <lastBuildDate>Fri, 03 Aug 2018 20:32:43 +0200</lastBuildDate>
+    <pubDate>Mon, 06 Aug 2018 09:04:54 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Aug 2018 09:04:54 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Review: Nicole Forsgren, Jez Humble &amp; Gene Kim - Accelerate</title>
+        <description>&lt;p&gt;The foreword, written by Martin Fowler, explains the concern I’ve had about many articles over the last years. People tell us what they’ve learnt but not how they’ve learnt it. See it as a form of deliberate partial transparency. This book tries to provide a more open form of the research the authors have provided over the past years.&lt;/p&gt; &lt;p&gt;The first part is more about doing software projects the &lt;em&gt;right&lt;/em&gt; way. The authors explain a lot of DevOps techniques I believe in as well as mention the strategies they believe provide the best outcome for a software project. In most...</description>
+        <pubDate>Mon, 06 Aug 2018 08:41:33 +0200</pubDate>
+        <link>http://thewelkoblog.xyz/review-nicole-forsgren-jez-humble-gene-kim-accelerate/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/review-nicole-forsgren-jez-humble-gene-kim-accelerate/</guid>
+        
+        <category>Non-Fiction</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>Review: Stephen King - The Outsider</title>
@@ -445,22 +459,6 @@
         
         
         <category>Review</category>
-        
-      </item>
-    
-      <item>
-        <title>4 Reading Myths Busted</title>
-        <description>&lt;h2 id=&quot;1-nobody-reads-nowadays&quot;&gt;1 Nobody reads nowadays&lt;/h2&gt; &lt;p&gt;Haven’t you heard this one yet? Maybe you even said it yourself. These days, man, there’s the internet and Netflix and youtube and a lot of cooler things than books. Nobody’s interested in those.&lt;/p&gt; &lt;p&gt;Errr, wrong! While I cannot give you any statistics about how much people are reading daily or how many books are still sold, I can tell you this: have you been on a train recently? Because I have. Almost everybody I see either has a book or an e-reader. What they do with that? I don’t think they’re watching Netflix, Sherlock.&lt;/p&gt;...</description>
-        <pubDate>Thu, 03 May 2018 14:05:34 +0200</pubDate>
-        <link>http://thewelkoblog.xyz/4-reading-myths-busted/</link>
-        <guid isPermaLink="true">http://thewelkoblog.xyz/4-reading-myths-busted/</guid>
-        
-        <category>Myths</category>
-        
-        <category>Reading</category>
-        
-        
-        <category>Reasons to Read</category>
         
       </item>
     
