@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Dancing",
+      "tags"     : "Dancing, Love, and Romance",
+      "categories" : "Creative Writing",
+      "url"      : "/dancing/",
+      "date"     : "08/09/2018"
+    } ,
+  
+    {
       "title"    : "Review: C.T. Phipps - The Science of Supervillainy",
       "tags"     : "Fiction",
       "categories" : "Review",
