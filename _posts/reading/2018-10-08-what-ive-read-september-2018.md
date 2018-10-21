@@ -6,8 +6,9 @@ description: "I knew I would read less in August so I estimated less. I thought 
 introduction: "I knew I would read less in August so I estimated less. I thought the same about September but boy did I overestimate last month. I wanted to read five books, and only managed two... Time to do better again in October!"
 category: 'Monthly Summary'
 tags:
-    - 2018
+    - "2018"
 picture_urls: 'https://images.gr-assets.com/books/1488998860l/34513301.jpg,https://images.gr-assets.com/books/1388800064l/9648068.jpg,https://images.gr-assets.com/books/1461532941l/26792284.jpg,https://images.gr-assets.com/books/1375211427l/18271349.jpg,https://images.gr-assets.com/books/1479719623l/30962055.jpg'
+blog: 'reading'
 ---
 ### Missed Opportunities
 I've started reading about <em>The Ajax Dilemma</em> and I've also finished <em>The First Days</em> by now. I didn't get to <em>Confessions of a D-List Supervillain</em> and that's not going to change soon. I've had enough of superhero stories for a while!

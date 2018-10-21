@@ -8,6 +8,7 @@ category: Monthly Summary
 tags:
     - "2018"
 picture_urls: 'https://images.gr-assets.com/books/1356125419l/9393062.jpg,https://images.gr-assets.com/books/1436742344l/18770267.jpg,https://images.gr-assets.com/books/1488998860l/34513301.jpg,https://images.gr-assets.com/books/1388800064l/9648068.jpg,https://images.gr-assets.com/books/1319427728l/11334430.jpg'
+blog: 'reading'
 ---
 ### Missed Opportunities
 
