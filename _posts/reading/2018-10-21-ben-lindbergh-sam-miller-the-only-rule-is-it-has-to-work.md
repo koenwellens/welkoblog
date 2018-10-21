@@ -6,7 +6,7 @@ image: 'https://images.gr-assets.com/books/1461532941l/26792284.jpg'
 description: "I like non-fiction books that contain stories rather than facts and figures. What I knew from <em>The Only Rule Is It Has to Work</em> before I started, was that this was a story-kind of non-fiction book. I was happy to start reading it and overall I'm quite happy that I did!"
 category: 'Review'
 tags:
-    - Fiction
+    - Non-Fiction
 blog: 'reading'
 ---
 Data: that's basically what this book is about. Can you create a good team, in this case a good baseball team, by choosing players based on data? That's the experiment Ben Lindbergh and Sam Miller wanted to do. When the opportunity arrived, they said "yes" immediately. But there's a catch.
