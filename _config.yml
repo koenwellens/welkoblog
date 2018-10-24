@@ -24,6 +24,7 @@ goodreads_username: 29067301
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+future: true
 
 # Plugins
 plugins:
