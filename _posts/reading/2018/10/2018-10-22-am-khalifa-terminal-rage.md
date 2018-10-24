@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A.M. Khalifa - Terminal Rage"
-date: 2018-10-22 00:55:01
+date: 2018-10-22 08:55:01
 image: 'https://images.gr-assets.com/books/1375211427l/18271349.jpg'
 description: "Fast-paced thrillers are great. They keep you turning page after page after page after... You get the point. Goodreads proposed I'd read <em>Terminal Rage</em> as it goes along with other books that I've read over the year. Goodreads, you were right."
 category: 'Review'
