@@ -9,4 +9,10 @@ tags:
     - Non-Fiction
 blog: 'reading'
 ---
-TODO
+After the first chapter, I had my doubts. I seriously thought I wouldn't finish this book. The first chapter made it look like this book was going to be nothing but bitching on technology.
+
+Thank goodness it was not. Instead, the book is filled with a lot of knowledge and nice-to-know facts. But I haven't really learnt a lot of interesting things. Nothing that I can use directly in my life, anyway.
+
+The content of this book is right: if you're easily addicted you can get into trouble easily with current technology and gadgets. If you have enough common sense, however, you should have the brains and discipline to stay out of trouble.
+
+In the end I like the book, but I'm not convinced. For me, <em>Irresistible</em> is a ✩✩✩ book. Did you read it? What do you think about it? Let me know in the comments section! 
