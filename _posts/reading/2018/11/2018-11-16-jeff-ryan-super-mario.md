@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Jeff Ryan - Super Mario"
-date: 2018-11-15 14:05:15
-image: ''
+date: 2018-11-16 14:05:15
+image: 'https://images.gr-assets.com/books/1348097960l/10660230.jpg'
 description: "It's a-me, wel_ko! Okay, I'm going to admit it. Reading this book was a trip down nostalgia lane. It's awesome to see these facts that made Nintendo the company it is today and allows us to learn a lot from it."
 category: 'Review'
 tags:
