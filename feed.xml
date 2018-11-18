@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>http://thewelkoblog.xyz/</link>
     <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Nov 2018 20:29:54 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 20:29:54 +0100</lastBuildDate>
+    <pubDate>Sun, 18 Nov 2018 18:12:24 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 18:12:24 +0100</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Jeff Ryan - Super Mario</title>
+        <description>&lt;p&gt;This book is a treasure: it contains so many fun facts about history’s funniest - if not most famous - video game character. I have learnt so many things. Like, did you know how Mario got his name? Or when the un-official super mario holiday is? If you do, nice! If you don’t, read this book. You’ll be amazed and smiling a lot!&lt;/p&gt; &lt;p&gt;I’ve learnt that the strategy Nintendo used has its benefits and disadvantages. I myself don’t see me use the strategy a lot because it’s not collaborative. Yet, I understand how it made Nintendo so big and how...</description>
+        <pubDate>Fri, 16 Nov 2018 15:05:15 +0100</pubDate>
+        <link>http://thewelkoblog.xyz/jeff-ryan-super-mario/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/jeff-ryan-super-mario/</guid>
+        
+        <category>Non-fiction</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>Darcy Coates - Craven Manor</title>
@@ -441,24 +455,6 @@
         
         
         <category>Creative Writing</category>
-        
-      </item>
-    
-      <item>
-        <title>An A-Z Survey About Books</title>
-        <description>&lt;p&gt;I had seen the concept of an A-Z survey before but seeing it applied to books made me itch to try this out myself. So stay tuned for 26 revelations about books and me.&lt;/p&gt; &lt;h3 id=&quot;author-youve-read-the-most-books-from&quot;&gt;AUTHOR YOU’VE READ THE MOST BOOKS FROM&lt;/h3&gt; &lt;p&gt;This is not a tough question. As a teenager, I’ve spent my time reading all the books of Stephen King. Who hasn’t read books from him, right? Well, after I finished &lt;em&gt;Rage&lt;/em&gt; – which was published under his false identity Richard Bachman – I was sold. I have been a fan ever since.&lt;/p&gt; &lt;p&gt;I’d like to present you...</description>
-        <pubDate>Sat, 14 Jul 2018 10:07:17 +0200</pubDate>
-        <link>http://thewelkoblog.xyz/an-a-z-survey-about-books/</link>
-        <guid isPermaLink="true">http://thewelkoblog.xyz/an-a-z-survey-about-books/</guid>
-        
-        <category>Tags</category>
-        
-        <category>Books</category>
-        
-        <category>A to Z</category>
-        
-        
-        <category>Fun</category>
         
       </item>
     
