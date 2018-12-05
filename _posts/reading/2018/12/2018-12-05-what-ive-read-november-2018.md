@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I've Read - November 2018"
-date: 2018-12-05 12:20:40
+date: 2018-12-05 04:20:40
 description: "One thing I didn't count on for November was that it would go so fast! I've been very busy with a lot of personal things and had to take a small break from reading. And so I didn't reach my goal of reading five books. No worries, I can still get to 75 by the end of the year!"
 introduction: "One thing I didn't count on for November was that it would go so fast! I've been very busy with a lot of personal things and had to take a small break from reading. And so I didn't reach my goal of reading five books. No worries, I can still get to 75 by the end of the year!"
 category: 'Monthly Summary'
