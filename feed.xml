@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>http://thewelkoblog.xyz/</link>
     <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Jan 2019 20:55:07 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Jan 2019 20:55:07 +0100</lastBuildDate>
+    <pubDate>Tue, 08 Jan 2019 21:23:45 +0100</pubDate>
+    <lastBuildDate>Tue, 08 Jan 2019 21:23:45 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>What I've Read - December 2018</title>
+        <description>&lt;h3 id=&quot;brief-cases&quot;&gt;Brief Cases&lt;/h3&gt; &lt;p&gt;I am a huge fan of the Dresden Files. I’ve been reading these books and stories since 2016 and I can’t wait for book 16 to come out. Jim Butcher posts some updates on his website now and then, and lately he’s given me hope that &lt;em&gt;Peace Talks&lt;/em&gt; might be out near the end of the year if not at the beginning of 2020. I really hope so!&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://images.gr-assets.com/books/1513644037l/12183815.jpg&quot; class=&quot;monthly-summary-summary&quot; /&gt;&lt;/p&gt; &lt;p&gt;Before you read this book, you should read up on the other Dresden Files books. They are all so good. Please go and pick up...</description>
+        <pubDate>Tue, 08 Jan 2019 11:14:10 +0100</pubDate>
+        <link>http://thewelkoblog.xyz/what-ive-read-december-2018/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/what-ive-read-december-2018/</guid>
+        
+        <category>2018</category>
+        
+        
+        <category>Monthly Summary</category>
+        
+      </item>
     
       <item>
         <title>My Year in Books - 2018</title>
@@ -421,26 +435,6 @@
         
         
         <category>Monthly Summary</category>
-        
-      </item>
-    
-      <item>
-        <title>Bye-bye Wordpress</title>
-        <description>&lt;h3 id=&quot;why-the-big-change&quot;&gt;Why the big change?&lt;/h3&gt; &lt;p&gt;Because I’ve had two blogs for quite some time now. There’s &lt;a href=&quot;https://readingwithwelko.wordpress.com/&quot;&gt;my reading blog&lt;/a&gt;, where I review books and discuss other book-ish matters, and there’s &lt;a href=&quot;https://welkoiswriting.wordpress.com/&quot;&gt;my writing blog&lt;/a&gt;, where I talk about writing and try to post short stories whenever possible. So as you may or may not know, I am maintaining two blogs at the moment.&lt;/p&gt; &lt;p&gt;And that just makes no sense. Why would I keep you away from content? Instead, I want feedback and opinions. So it’s in my interest to get as much content as possible over to you! One...</description>
-        <pubDate>Mon, 30 Jul 2018 20:30:00 +0200</pubDate>
-        <link>http://thewelkoblog.xyz/bye-bye-wordpress/</link>
-        <guid isPermaLink="true">http://thewelkoblog.xyz/bye-bye-wordpress/</guid>
-        
-        <category>Jekyll</category>
-        
-        <category>Github Pages</category>
-        
-        <category>Wordpress</category>
-        
-        <category>Blog</category>
-        
-        
-        <category>Changes</category>
         
       </item>
     
