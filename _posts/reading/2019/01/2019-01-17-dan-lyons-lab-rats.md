@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Dan Lyons - Lab Rats"
-date: 2019-01-17 19:44:18
+date: 2019-01-17 19:42:18
 image: 'https://images.gr-assets.com/books/1529544098l/38901702.jpg'
 description: "It has started! My first book of the year is finished. I found this book called <em>Lab Rats</em> and noted that it was quite new and got good ratings on Goodreads. So I wanted to see what it was about. Here's what I found out."
 category: 'Review'
 tags:
-    - Fiction
+    - Non-fiction
 blog: 'reading'
 ---
 Dan Lyons makes a great speech about how current tech companies are ruining the industry for not only employees, but for everyone. He makes good arguments on why we should stop just adopting the so-called newest tips and tricks about modern management. 
