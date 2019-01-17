@@ -5,8 +5,8 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>http://thewelkoblog.xyz/</link>
     <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Jan 2019 21:11:51 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Jan 2019 21:11:51 +0100</lastBuildDate>
+    <pubDate>Thu, 17 Jan 2019 21:16:44 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Jan 2019 21:16:44 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -16,7 +16,7 @@
         <link>http://thewelkoblog.xyz/dan-lyons-lab-rats/</link>
         <guid isPermaLink="true">http://thewelkoblog.xyz/dan-lyons-lab-rats/</guid>
         
-        <category>Fiction</category>
+        <category>Non-fiction</category>
         
         
         <category>Review</category>
