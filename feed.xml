@@ -5,9 +5,23 @@
     <description>A blog where I review books, try to report on my progress as a writer and generally add other ramblings that come to mind.</description>
     <link>http://thewelkoblog.xyz/</link>
     <atom:link href="http://thewelkoblog.xyz/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Feb 2019 21:27:16 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 21:27:16 +0100</lastBuildDate>
+    <pubDate>Sun, 10 Feb 2019 20:46:39 +0100</pubDate>
+    <lastBuildDate>Sun, 10 Feb 2019 20:46:39 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Karen M. McManus - Two Can Keep a Secret</title>
+        <description>&lt;p&gt;Although the titles both have numbers, this book has nothing to do with the previous book from the same author. Instead, this story has its own characters, places and plot. Which is a good thing, really!&lt;/p&gt; &lt;p&gt;There are characters in this book that have been on my nerve since page one. Some characters are in this book to fill the pages, not to add to the story. What a shame and a waste of time for all of us.&lt;/p&gt; &lt;p&gt;I don’t really like how Ellery develops through this book. There’s nothing that lifts her to a higher level or makes...</description>
+        <pubDate>Sun, 10 Feb 2019 14:35:54 +0100</pubDate>
+        <link>http://thewelkoblog.xyz/karen-m-mcmanus-two-can-keep-a-secret/</link>
+        <guid isPermaLink="true">http://thewelkoblog.xyz/karen-m-mcmanus-two-can-keep-a-secret/</guid>
+        
+        <category>Fiction</category>
+        
+        
+        <category>Review</category>
+        
+      </item>
     
       <item>
         <title>What I've Read - January 2019</title>
@@ -412,20 +426,6 @@
         <guid isPermaLink="true">http://thewelkoblog.xyz/review-c-t-phipps-the-science-of-supervillainy/</guid>
         
         <category>Fiction</category>
-        
-        
-        <category>Review</category>
-        
-      </item>
-    
-      <item>
-        <title>Review: Nicole Forsgren, Jez Humble &amp; Gene Kim - Accelerate</title>
-        <description>&lt;p&gt;The foreword, written by Martin Fowler, explains the concern I’ve had about many articles over the last years. People tell us what they’ve learnt but not how they’ve learnt it. See it as a form of deliberate partial transparency. This book tries to provide a more open form of the research the authors have provided over the past years.&lt;/p&gt; &lt;p&gt;The first part is more about doing software projects the &lt;em&gt;right&lt;/em&gt; way. The authors explain a lot of DevOps techniques I believe in as well as mention the strategies they believe provide the best outcome for a software project. In most...</description>
-        <pubDate>Mon, 06 Aug 2018 08:41:33 +0200</pubDate>
-        <link>http://thewelkoblog.xyz/review-nicole-forsgren-jez-humble-gene-kim-accelerate/</link>
-        <guid isPermaLink="true">http://thewelkoblog.xyz/review-nicole-forsgren-jez-humble-gene-kim-accelerate/</guid>
-        
-        <category>Non-Fiction</category>
         
         
         <category>Review</category>
