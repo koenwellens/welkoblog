@@ -19,6 +19,6 @@ I'm not going to lie to you. At the end of the story, I felt a bit let down. But
 
 But there were some shortcomings in my opinion. I thought Orphan A would be the next Orphan Y. While it might be good that this wasn't the case, I was a bit let down that we only get to enjoy this character for the short time we have. But even worse, I'm feeling a bit scared for the next books. All the previous books ended in a way that let you know even more was coming. But what can come now? Hurwitz tweeted that there will be more Orphan X books in the future, but it feels hard to top what is already here.
 
-One thing is for sure. I will buy the next one and chances are very high I will enjoy it just as much as this one. Thanks for this great book, Greg!
+One thing is for sure. I will buy the next one and chances are very high I will enjoy it just as much as this one. Thanks for this great book, Gregg!
 
 Have you read <em>Out of the Dark</em>? Or an other Orphan X novel? If you haven't, go! There's the door to the bookshop. If you have, let's have a chat and discuss these amazing stories!
